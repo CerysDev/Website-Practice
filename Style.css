@@ -1,0 +1,17 @@
+.pad {
+  padding: 100px;
+}
+.button{
+  margin-bottom: 50px;
+}
+
+.nob a {
+  background-color: #fff !important;
+  color: #000;
+  font-weight: bold;
+}
+
+.nob a:hover {
+  background-color: #fff !important;
+  color: #35B8BE;
+}
